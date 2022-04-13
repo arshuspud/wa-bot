@@ -5,7 +5,7 @@
 2. You will get a session id in whatsapp, copy id only.
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/lyfe00011/wa-bot/fork)
-5. Now https://heroku.com/deploy?template=https://github.com/lyfe00011/wa-bot copy this url and change lyfe00011 with your github username and click GO<br>
+5. Now https://heroku.com/deploy?template=https://github.com/arshuspud/wa-bot copy this url and change lyfe00011 with your github username and click GO<br>
    <br>
    <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
